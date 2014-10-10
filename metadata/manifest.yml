@@ -72,3 +72,4 @@ Version-Overrides:
     - ruby-2.0
     - ruby
     - ruby(version) = 2.0
+Source-Url: https://raw.githubusercontent.com/yanpzhan/ruby1010/master/metadata/manifest.yml
