@@ -15,7 +15,7 @@ Vendor: ruby.org
 Cartridge-Version: 0.0.21
 Compatible-Versions:
 - 0.0.20
-Cartridge-Vendor: ruby-yanpzhan
+Cartridge-Vendor: yanpzhan
 Categories:
 - service
 - ruby
