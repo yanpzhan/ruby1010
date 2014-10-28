@@ -108,7 +108,6 @@ function pre-repo-archive() {
 
 function build() {
     echo "Building Ruby cartridge"
-    date > ${OPENSHIFT_RUBY_DIR}/keyname
     update-configuration $OPENSHIFT_RUBY_VERSION
 
     if [ -d ${OPENSHIFT_RUBY_DIR}tmp/.bundle ]; then
