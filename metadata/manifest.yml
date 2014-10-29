@@ -7,7 +7,7 @@ Description: Ruby is a dynamic, reflective, general-purpose object-oriented prog
 Version: '1.9'
 Versions:
 #- '2.0'
-#- '1.9'
+- '1.9'
 #- '1.8'
 License: Ruby BSDL
 License-Url: http://www.ruby-lang.org/en/about/license.txt
